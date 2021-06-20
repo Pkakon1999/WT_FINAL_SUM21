@@ -1,12 +1,10 @@
 <?php
-	$yourname = "raju";
-	$name;
+	$name = "raju";
 	
 	if ($name = "raju")
 	{
 		echo "Hello";
-	}
-		
+	}		
 	else if ($name = "mina")
 	{
 		echo "Hello";
@@ -17,8 +15,6 @@
 	}
 	else
 	{
-		$name != $yourname; 
-	}
-	echo "You are not recognised"
-	
+		echo "You are not recognised";
+	}	
 ?>
